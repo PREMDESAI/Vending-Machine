@@ -5,7 +5,6 @@ A C++ implementation of a vending machine management system with SQLite database
 ### User Mode (Customer)
 - Browse available items with prices
 - Select items using unique codes
-- 
 - Automatic change calculation and dispensing
 - Real-time stock tracking
 - Automatic service stop when:
@@ -30,13 +29,10 @@ A C++ implementation of a vending machine management system with SQLite database
 ### Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/KyiThantSin/vending-machine.git
 ```
 2. Navigate to the project directory
 ```bash
-  cd vending_machine
 ```
 3. Compile the project
 ```bash
-  g++ -std=c++11 -o vending_machine main.cpp -lsqlite3
 ```
