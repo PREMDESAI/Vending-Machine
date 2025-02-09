@@ -5,8 +5,7 @@ A C++ implementation of a vending machine management system with SQLite database
 ### User Mode (Customer)
 - Browse available items with prices
 - Select items using unique codes
-- Process payments with multiple Thai Baht denominations:
-(100 THB, 20 THB, 10 THB, 5 THB, 1 THB)
+- 
 - Automatic change calculation and dispensing
 - Real-time stock tracking
 - Automatic service stop when:
